@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📚 Storytelling Website</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background: #fdf5e6; padding: 20px; }
+    .box { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 5px 12px rgba(0,0,0,0.1); max-width: 750px; margin: auto; }
+    button { margin: 10px; padding: 12px 20px; border: none; border-radius: 10px; background: #4CAF50; color: white; font-size: 16px; cursor: pointer; }
+    button:hover { background: #388E3C; }
+    select { margin: 10px; padding: 10px; border-radius: 8px; font-size: 16px; }
+    #story { margin-top: 20px; font-size: 18px; line-height: 1.6; }
+    #storyImage { margin-top: 20px; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: none; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>📚 Storytelling Website</h2>
+    <p><strong>Select Category:</strong></p>
+    <select id="category" onchange="loadStories()">
+      <option value="">-- Select --</option>
+      <option value="child">Child</option>
+      <option value="adult">Adult</option>
+    </select>
+    <p><strong>Select Story:</strong></p>
+    <select id="storySelect" onchange="showStory()">
+      <option value="">-- Choose Story --</option>
+    </select>
+    <p><strong>Select Language:</strong></p>
+    <select id="language" onchange="showStory()">
+      <option value="en">English</option>
+      <option value="hi">Hindi</option>
+    </select>
+    <div id="storyContainer">
+      <img id="storyImage" src="" alt="">
+      <p id="story"></p>
+    </div>
+    <button onclick="speakStory()">🔊 Listen</button>
+    <button onclick="stopStory()">⏹ Stop</button>
+    <button onclick="toggleMusic()">🎵 Toggle Music</button>
+    <button onclick="randomStory()">🎲 Random Story</button>
+  </div>
+  <script>
+    let synth = window.speechSynthesis;
+    let bgMusic = new Audio();
+    bgMusic.loop = true;
+    let stories = {};
+    let currentStory = null;
+    fetch("stories.json")
+      .then(res => res.json())
+      .then(data => { stories = data; });
+    function loadStories() {
+      let category = document.getElementById("category").value;
+      let storySelect = document.getElementById("storySelect");
+      storySelect.innerHTML = '<option value="">-- Choose Story --</option>';
+      if (category && stories[category]) {
+        for (let title in stories[category]) {
+          let opt = document.createElement("option");
+          opt.value = title;
+          opt.textContent = title;
+          storySelect.appendChild(opt);
+        }
+      }
+      document.getElementById("story").innerHTML = "";
+      document.getElementById("storyImage").style.display = "none";
+      bgMusic.pause();
+    }
+    function showStory(title = null) {
+      let category = document.getElementById("category").value;
+      let storyTitle = title || document.getElementById("storySelect").value;
+      let lang = document.getElementById("language").value;
+      if (storyTitle) {
+        let storyData = stories[category][storyTitle];
+        currentStory = storyData;
+        let text = storyData[lang] || storyData.en; 
+        document.getElementById("story").innerText = text;
+        let imgEl = document.getElementById("storyImage");
+        imgEl.src = storyData.img || "";
+        imgEl.style.display = storyData.img ? "block" : "none";
+        if (storyData.music) {
+          bgMusic.src = storyData.music;
+          bgMusic.play();
+        }
+      }
+    }
+    function randomStory() {
+      let category = document.getElementById("category").value;
+      if (!category) { alert("Please select a category first!"); return; }
+      let keys = Object.keys(stories[category]);
+      let randomTitle = keys[Math.floor(Math.random() * keys.length)];
+      document.getElementById("storySelect").value = randomTitle;
+      showStory(randomTitle);
+    }
+    function speakStory() {
+      let text = document.getElementById("story").innerText;
+      let lang = document.getElementById("language").value;
+      if (text) {
+        synth.cancel();
+        let utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = lang === "hi" ? "hi-IN" : "en-US";
+        utterance.rate = 1;
+        utterance.pitch = 1;
+        synth.speak(utterance);
+      }
+    }
+    function stopStory() { synth.cancel(); }
+    function toggleMusic() { if (bgMusic.paused) { bgMusic.play(); } else { bgMusic.pause(); } }
+  </script>
+</body>
+</html>

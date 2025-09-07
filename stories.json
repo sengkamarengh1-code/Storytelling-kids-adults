@@ -1,0 +1,306 @@
+{
+  "child": {
+    "Child Story 1": {
+      "en": "This is the English text of Child Story 1. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 1 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child1/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    },
+    "Child Story 2": {
+      "en": "This is the English text of Child Story 2. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 2 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child2/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    },
+    "Child Story 3": {
+      "en": "This is the English text of Child Story 3. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 3 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child3/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+    },
+    "Child Story 4": {
+      "en": "This is the English text of Child Story 4. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 4 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child4/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+    },
+    "Child Story 5": {
+      "en": "This is the English text of Child Story 5. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 5 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child5/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    "Child Story 6": {
+      "en": "This is the English text of Child Story 6. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 6 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child6/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    "Child Story 7": {
+      "en": "This is the English text of Child Story 7. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 7 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child7/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    "Child Story 8": {
+      "en": "This is the English text of Child Story 8. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 8 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child8/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    "Child Story 9": {
+      "en": "This is the English text of Child Story 9. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 9 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child9/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Child Story 10": {
+      "en": "This is the English text of Child Story 10. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 10 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child10/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+    },
+    "Child Story 11": {
+      "en": "This is the English text of Child Story 11. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 11 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child11/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+    },
+    "Child Story 12": {
+      "en": "This is the English text of Child Story 12. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 12 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child12/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+    },
+    "Child Story 13": {
+      "en": "This is the English text of Child Story 13. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 13 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child13/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+    },
+    "Child Story 14": {
+      "en": "This is the English text of Child Story 14. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 14 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child14/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    "Child Story 15": {
+      "en": "This is the English text of Child Story 15. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 15 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child15/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    "Child Story 16": {
+      "en": "This is the English text of Child Story 16. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 16 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child16/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    "Child Story 17": {
+      "en": "This is the English text of Child Story 17. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 17 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child17/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Child Story 18": {
+      "en": "This is the English text of Child Story 18. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 18 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child18/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+    },
+    "Child Story 19": {
+      "en": "This is the English text of Child Story 19. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 19 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child19/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+    },
+    "Child Story 20": {
+      "en": "This is the English text of Child Story 20. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 20 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child20/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+    },
+    "Child Story 21": {
+      "en": "This is the English text of Child Story 21. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 21 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child21/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    "Child Story 22": {
+      "en": "This is the English text of Child Story 22. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 22 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child22/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    },
+    "Child Story 23": {
+      "en": "This is the English text of Child Story 23. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 23 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child23/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Child Story 24": {
+      "en": "This is the English text of Child Story 24. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 24 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child24/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+    },
+    "Child Story 25": {
+      "en": "This is the English text of Child Story 25. Once upon a time, something magical happened.",
+      "hi": "यह बालकथा 25 का हिंदी पाठ है। एक समय की बात है, कुछ जादुई हुआ।",
+      "img": "https://picsum.photos/seed/child25/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    }
+  },
+  "adult": {
+    "Adult Story 1": {
+      "en": "This is the English text of Adult Story 1. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 1 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult1/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+    },
+    "Adult Story 2": {
+      "en": "This is the English text of Adult Story 2. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 2 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult2/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    "Adult Story 3": {
+      "en": "This is the English text of Adult Story 3. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 3 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult3/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Adult Story 4": {
+      "en": "This is the English text of Adult Story 4. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 4 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult4/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    "Adult Story 5": {
+      "en": "This is the English text of Adult Story 5. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 5 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult5/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    "Adult Story 6": {
+      "en": "This is the English text of Adult Story 6. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 6 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult6/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Adult Story 7": {
+      "en": "This is the English text of Adult Story 7. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 7 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult7/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    "Adult Story 8": {
+      "en": "This is the English text of Adult Story 8. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 8 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult8/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+    },
+    "Adult Story 9": {
+      "en": "This is the English text of Adult Story 9. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 9 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult9/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+    },
+    "Adult Story 10": {
+      "en": "This is the English text of Adult Story 10. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 10 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult10/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    },
+    "Adult Story 11": {
+      "en": "This is the English text of Adult Story 11. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 11 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult11/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    "Adult Story 12": {
+      "en": "This is the English text of Adult Story 12. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 12 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult12/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    "Adult Story 13": {
+      "en": "This is the English text of Adult Story 13. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 13 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult13/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    "Adult Story 14": {
+      "en": "This is the English text of Adult Story 14. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 14 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult14/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+    },
+    "Adult Story 15": {
+      "en": "This is the English text of Adult Story 15. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 15 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult15/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+    },
+    "Adult Story 16": {
+      "en": "This is the English text of Adult Story 16. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 16 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult16/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    "Adult Story 17": {
+      "en": "This is the English text of Adult Story 17. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 17 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult17/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    "Adult Story 18": {
+      "en": "This is the English text of Adult Story 18. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 18 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult18/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    "Adult Story 19": {
+      "en": "This is the English text of Adult Story 19. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 19 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult19/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    "Adult Story 20": {
+      "en": "This is the English text of Adult Story 20. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 20 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult20/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    "Adult Story 21": {
+      "en": "This is the English text of Adult Story 21. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 21 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult21/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    "Adult Story 22": {
+      "en": "This is the English text of Adult Story 22. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 22 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult22/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    "Adult Story 23": {
+      "en": "This is the English text of Adult Story 23. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 23 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult23/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+    },
+    "Adult Story 24": {
+      "en": "This is the English text of Adult Story 24. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 24 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult24/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    "Adult Story 25": {
+      "en": "This is the English text of Adult Story 25. An intriguing event took place in the city.",
+      "hi": "यह वयस्क कथा 25 का हिंदी पाठ है। शहर में एक रोचक घटना हुई।",
+      "img": "https://picsum.photos/seed/adult25/600/400",
+      "music": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    }
+  }
+}
